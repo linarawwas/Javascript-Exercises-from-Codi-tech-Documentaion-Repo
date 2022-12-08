@@ -1,5 +1,5 @@
 function welcomeUser() {
  retVal = prompt("Enter your name : ", "your name here");
-    alert("Hello,  " + retVal);
+    ale("Hello,  " + retVal);
 }
  welcomeUser();
